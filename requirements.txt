@@ -3,3 +3,4 @@ pyrebase
 pandas
 requests
 streamlit-autorefresh
+pycryptodome
